@@ -1,5 +1,5 @@
 # 💫About Me :
-Computer Engineering Student graduating in 2023.
+Hello, I am Rahul Jadhav. I am a computer engineering student, graduating in 2023.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-jadhav11/) 
