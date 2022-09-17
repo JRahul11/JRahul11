@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JRahul11&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JRahul11&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JRahul11&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JRahul11&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,purebasic&langs_count=8)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JRahul11&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
