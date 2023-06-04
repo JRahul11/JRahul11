@@ -1,5 +1,5 @@
 ## 💫 About Me
-👋 Hello, I am Rahul Jadhav.<br>🔭 I'm currently working on Django REST Framework.<br>🌱 I'm learning more about Cloud Services and Dev Ops.<br>🧑‍🤝‍🧑 I'm looking forward to contribute to Open Source.<br>😄 Pronouns: He/His.
+👋 Hello, I am Rahul Jadhav.<br>🔭 I'm currently working on Django REST Framework.<br>🌱 I'm learning more about Cloud Services and Dev Ops.<br>🧑‍🤝‍🧑 I'm looking forward to contribute to Open Source.<br>😄 Pronouns: He/His.<br><br> [![](https://visitcount.itsvg.in/api?id=JRahul11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials
@@ -21,6 +21,3 @@
 
 ### ✍️ Today's Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=JRahul11&icon=0&color=0)](https://visitcount.itsvg.in)
